@@ -1,0 +1,13 @@
+{
+  "module_name": "diffy3",
+  "visibility": "private",
+  "namespace": "namespace",
+  "language": "go",
+  "resource_type": "component",
+  "resource_subtype": "generic",
+  "model_name": "diffy_model",
+  "initialize_git": false,
+  "generator_version": "0.1.0",
+  "generated_on": "2026-02-21T23:49:27.468973388Z",
+  "module_readme_link": "README.md"
+}
