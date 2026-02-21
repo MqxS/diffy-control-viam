@@ -4,6 +4,13 @@
   "visibility": "private",
   "url": "https://github.com/MqxS/diffy-control-viam",
   "description": "Modular generic component: diffy_model",
+  "models": [
+    {
+      "api": "rdk:component:generic",
+      "model": "namespace:diffy3:diffy_model",
+      "markdown_link": "namespace_diffy3_diffy_model.md"
+    }
+  ],
   "applications": null,
   "markdown_link": "README.md",
   "entrypoint": "bin/diffy3",
